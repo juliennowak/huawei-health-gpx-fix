@@ -1,0 +1,8 @@
+.idea/
+
+# Input and output files
+input/
+output/
+
+# Virtual environment
+venv/
